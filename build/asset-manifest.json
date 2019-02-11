@@ -1,15 +1,15 @@
 {
-  "main.css": "/aboutGnanavel/static/css/main.13fd8cd4.chunk.css",
-  "main.js": "/aboutGnanavel/static/js/main.270e03b7.chunk.js",
-  "main.js.map": "/aboutGnanavel/static/js/main.270e03b7.chunk.js.map",
-  "static/js/1.a5b61b2b.chunk.js": "/aboutGnanavel/static/js/1.a5b61b2b.chunk.js",
-  "static/js/1.a5b61b2b.chunk.js.map": "/aboutGnanavel/static/js/1.a5b61b2b.chunk.js.map",
-  "runtime~main.js": "/aboutGnanavel/static/js/runtime~main.b379e07a.js",
-  "runtime~main.js.map": "/aboutGnanavel/static/js/runtime~main.b379e07a.js.map",
-  "static/css/main.13fd8cd4.chunk.css.map": "/aboutGnanavel/static/css/main.13fd8cd4.chunk.css.map",
-  "static/media/GNANAVEL-Resume.pdf": "/aboutGnanavel/static/media/GNANAVEL-Resume.1207cbb6.pdf",
-  "static/media/index.css": "/aboutGnanavel/static/media/darkbg.52d4a52b.jpg",
+  "main.css": "/aboutGnanavel/static/css/main.9a0f465f.chunk.css",
+  "main.js": "/aboutGnanavel/static/js/main.2acd98be.chunk.js",
+  "main.js.map": "/aboutGnanavel/static/js/main.2acd98be.chunk.js.map",
+  "runtime~main.js": "/aboutGnanavel/static/js/runtime~main.50b30890.js",
+  "runtime~main.js.map": "/aboutGnanavel/static/js/runtime~main.50b30890.js.map",
+  "static/js/2.6a33b94f.chunk.js": "/aboutGnanavel/static/js/2.6a33b94f.chunk.js",
+  "static/js/2.6a33b94f.chunk.js.map": "/aboutGnanavel/static/js/2.6a33b94f.chunk.js.map",
   "index.html": "/aboutGnanavel/index.html",
-  "precache-manifest.d19011394816c65fcac6d001e8abfd6b.js": "/aboutGnanavel/precache-manifest.d19011394816c65fcac6d001e8abfd6b.js",
-  "service-worker.js": "/aboutGnanavel/service-worker.js"
+  "precache-manifest.17ae982b2ce6673b9e7595c98759822c.js": "/aboutGnanavel/precache-manifest.17ae982b2ce6673b9e7595c98759822c.js",
+  "service-worker.js": "/aboutGnanavel/service-worker.js",
+  "static/css/main.9a0f465f.chunk.css.map": "/aboutGnanavel/static/css/main.9a0f465f.chunk.css.map",
+  "static/media/GNANAVEL-Resume.pdf": "/aboutGnanavel/static/media/GNANAVEL-Resume.1207cbb6.pdf",
+  "static/media/index.css": "/aboutGnanavel/static/media/darkbg.52d4a52b.jpg"
 }
